@@ -1,4 +1,4 @@
-# PowerBI-Data-Jobs-Insights
+# PowerBI Data Jobs Insights
 ![Data Jobs Dashboard](Assets/Data_Jobs_Dashboard.png)
 ## Introduction
 The Data Jobs Dashboard is an interactive Power BI solution designed to provide comprehensive insights into the data job market. With the rapid expansion of data-driven roles, understanding job distribution, salary benchmarks, and evolving market trends has become critical for professionals, recruiters, and organizations.
