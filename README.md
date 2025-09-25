@@ -1,5 +1,5 @@
 # PowerBI-Data-Jobs-Insights
-![Data Jobs Dashboard](Assests/Data_Jobs_Dashboard.png)
+![Data Jobs Dashboard](Assets/Data_Jobs_Dashboard.png)
 ## 📌 Overview
 
 This repository contains an interactive Power BI dashboard that provides deep insights into the Data Jobs Market. The dashboard allows users to explore job trends, salaries, and key statistics across various data-related roles.
