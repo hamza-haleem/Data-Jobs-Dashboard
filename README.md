@@ -1,6 +1,6 @@
 # PowerBI-Data-Jobs-Insights
 ![Data Jobs Dashboard](Assets/Data_Jobs_Dashboard.png)
-## 📖 Introduction
+## Introduction
 The Data Jobs Dashboard is an interactive Power BI solution designed to provide comprehensive insights into the data job market. With the rapid expansion of data-driven roles, understanding job distribution, salary benchmarks, and evolving market trends has become critical for professionals, recruiters, and organizations.
 
 This dashboard consolidates job-related data, transforming it into actionable intelligence through advanced Power BI features. It offers a dual-view experience:
@@ -8,7 +8,7 @@ This dashboard consolidates job-related data, transforming it into actionable in
 2. Drillthrough Dashboard – Role-specific insights (e.g., Data Analyst, Data Engineer, Data Scientist), accessible via an interactive drillthrough button.
 
 The objective of this project is to democratize job market insights, making complex data accessible in a visually appealing and decision-friendly format.
-## 🛠️ Skills Showcased
+## Skills Showcased
 This dashboard highlights a comprehensive set of Power BI and data visualization competencies, reflecting industry-relevant skills in data analytics and reporting:
 ### 🔄 Data Transformation (ETL) with Power Query
 - Applied advanced data preparation techniques, including cleaning, merging, and reshaping datasets.
@@ -38,7 +38,7 @@ This dashboard highlights a comprehensive set of Power BI and data visualization
 
 ### Page 2: Drill Through Job Title
 
-![Drill Through](Assets/Drill_Through_Job_Title)
+![Drill Through](Assets/Drill_Through_Job_Title.png)
 
 *Activated via the drillthrough button on the main page. It enables users to dive deeper into a specific job role (e.g., Data Analyst, Data Scientist, Data Engineer) and explore role-focused insights such as salary distributions, work-from-home percentages, degree requirements, job types, and recruitment platforms.*
 ## Conclusion
